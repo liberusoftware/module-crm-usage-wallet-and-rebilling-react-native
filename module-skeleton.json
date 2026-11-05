@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-usage-wallet-and-rebilling-react-native",
+  "capabilityKey": "liberusoftware/module-crm-usage-wallet-and-rebilling",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-crm-usage-wallet-and-rebilling-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/crm/nextjs/usage-wallet-and-rebilling.md",
+  "presentationPlan": "projects/crm/react-native/usage-wallet-and-rebilling.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
